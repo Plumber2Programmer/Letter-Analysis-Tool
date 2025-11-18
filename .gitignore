@@ -1,0 +1,19 @@
+# Build folders
+bin/
+obj/
+Debug/
+Release/
+*.o
+*.exe
+*.out
+
+# IDE files
+*.layout
+*.user
+*.log
+
+# Backup files
+*~
+*.tmp
+
+
